@@ -1,0 +1,3 @@
+﻿Se debe claro cual es la responsabilidad correcta de cada clase, eso hara que aplicar el principio de 
+responsabilidad unica tenga sentido.
+La manera de determinar las responsabilidades de una clase es basado en la experiencia(creo yo)

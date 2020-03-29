@@ -1,0 +1,6 @@
+﻿Se debe usar interfaces sencillas, no con muchos metodos para que los que 
+implementen no esten obligados a usar metodos innecesarios, se debe determinar las 
+funciones necesarias por interface, eso de acuerdo a la funcionalidad de nuestro proyecto, 
+tambien con la experiencia podemos no llegar a crear una interface por cada metodo sino que 
+llegariamos a tener funciones que implementen interfaces muy especificas haciendo parte tambien
+del principio Single resposability

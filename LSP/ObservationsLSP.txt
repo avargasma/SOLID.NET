@@ -1,0 +1,10 @@
+﻿Si hay una clase y hay clases que heredan de ella, las clases hijo
+deben fncionar tal cual, si se desea reemplazar la clase padre estos deben ejecutar
+todo lo que tenia la clase padre 
+
+Se hace uso de la herencia full, la idea crear interfaces que hereden la clase padre y luego estas nuevas interfaces son 
+usadas para la creacion del objeto
+
+Prinicipio de sustitucion
+
+Barbara lokov

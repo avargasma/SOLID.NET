@@ -1,0 +1,2 @@
+﻿Se usa el patron Specification-> este patron se usa para el tema de filtrado
+Para ejecutar este principio se deben usar interfaces
